@@ -18,3 +18,4 @@ This repository contains the projects completed during my **Machine Learning Int
 Python • NumPy • Pandas • Scikit-learn • Matplotlib • Seaborn • Jupyter Notebook
 
 This repository showcases my practical experience in **data preprocessing, machine learning, model training, and evaluation** gained during the internship.
+![Uploading Screenshot_20260819-210934-389.png…]()
