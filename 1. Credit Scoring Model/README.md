@@ -25,14 +25,6 @@ This project uses **Machine Learning** to predict credit scores based on various
 5. Model Evaluation
 6. Saving the Best Model
 
-## 🚀 How to Run
-
-```bash
-git clone https://github.com/yourusername/Credit-Score-Prediction.git
-cd Credit-Score-Prediction
-pip install -r requirements.txt
-jupyter notebook
-```
 
 ## 📈 Results
 
