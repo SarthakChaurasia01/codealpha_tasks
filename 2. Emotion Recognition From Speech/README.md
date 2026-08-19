@@ -29,12 +29,6 @@ The model analyzes speech audio and predicts emotions such as **fear, sadness, a
 
 ## 🚀 How to Run
 
-```bash
-git clone https://github.com/yourusername/emotion-recognition-speech.git
-cd emotion-recognition-speech
-pip install -r requirements.txt
-python app.py
-```
 
 ## 📁 Main Components
 
